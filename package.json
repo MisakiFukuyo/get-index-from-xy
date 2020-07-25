@@ -1,0 +1,24 @@
+{
+  "name": "get-index-from-xy",
+  "version": "1.0.0",
+  "description": "Get index from x, y",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakafumiFukuyo/get-index-from-xy.git"
+  },
+  "keywords": [
+    "index",
+    "x",
+    "y"
+  ],
+  "author": "Takafumi Fukuyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TakafumiFukuyo/get-index-from-xy/issues"
+  },
+  "homepage": "https://github.com/TakafumiFukuyo/get-index-from-xy#readme"
+}
